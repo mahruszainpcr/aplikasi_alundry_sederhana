@@ -1,4 +1,4 @@
-# crud-generator
+# aplikasi laundry sederhana
 
 
 Akses http://localhost/washing
