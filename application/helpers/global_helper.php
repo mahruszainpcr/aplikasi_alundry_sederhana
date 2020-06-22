@@ -9,5 +9,8 @@
 		<a href="'.site_url('Pelanggan').'"><i class="fa fa-user fa-fw"></i> Pelanggan</a>
 	</li><li>
 		<a href="'.site_url('transaksi_pencucian').'"><i class="fa fa-money fa-fw"></i> Transaksi pencucian</a>
+	</li>
+	<li>
+		<a href="'.site_url('angka').'"><i class="fa fa-list fa-fw"></i> Angka</a>
 	</li>';
 	}
